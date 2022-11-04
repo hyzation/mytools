@@ -4,6 +4,7 @@
 # production
 /build
 
+/out
 
 # 忽略.class后缀的所有文件
 *.class
