@@ -1,0 +1,14 @@
+{
+  "name": "my-tools",
+  "version": "1.0.0",
+  "description": "Hey Cruel World!",
+  "main": "main.js",
+  "author": "Jane Doe",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^21.2.2"
+  }
+}
